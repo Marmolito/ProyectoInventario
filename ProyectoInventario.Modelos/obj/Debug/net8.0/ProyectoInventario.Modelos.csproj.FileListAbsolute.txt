@@ -1,0 +1,16 @@
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\bin\Debug\net8.0\ProyectoInventario.Modelos.deps.json
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\bin\Debug\net8.0\ProyectoInventario.Modelos.dll
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\bin\Debug\net8.0\ProyectoInventario.Modelos.pdb
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\bin\Debug\net8.0\ProyectoInventario.Utilidades.dll
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\bin\Debug\net8.0\ProyectoInventario.Utilidades.pdb
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\ProyectoInventario.Modelos.csproj.AssemblyReference.cache
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\ProyectoInventario.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\ProyectoInventario.Modelos.AssemblyInfoInputs.cache
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\ProyectoInventario.Modelos.AssemblyInfo.cs
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\ProyectoInventario.Modelos.csproj.CoreCompileInputs.cache
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\ProyectoInventario.Modelos.sourcelink.json
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\Proyecto.0CB5A5F9.Up2Date
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\ProyectoInventario.Modelos.dll
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\refint\ProyectoInventario.Modelos.dll
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\ProyectoInventario.Modelos.pdb
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.Modelos\obj\Debug\net8.0\ref\ProyectoInventario.Modelos.dll
