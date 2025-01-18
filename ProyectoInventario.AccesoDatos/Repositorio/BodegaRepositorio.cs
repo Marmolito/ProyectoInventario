@@ -14,6 +14,7 @@ namespace ProyectoInventario.AccesoDatos.Repositorio
         private readonly ApplicationDbContext _db;
         public BodegaRepositorio(ApplicationDbContext db) : base(db)
         {
+            _db = db;
         }
 
         public void Actualizar(Bodega bodega)

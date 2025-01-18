@@ -13,6 +13,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\bodega.js",
+      "PackagePath": "staticwebassets\\js\\bodega.js"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\loadDataTable.js",
+      "PackagePath": "staticwebassets\\js\\loadDataTable.js"
+    },
+    {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

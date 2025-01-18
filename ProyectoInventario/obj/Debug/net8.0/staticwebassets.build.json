@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+u3sl349lDmBA/QZ3IQ4JZ3MRiZa4ibf8aCmnUn2yy0=",
+  "Hash": "QezLjE8CvGMu1bzBvwp9rqbRxM95kH0MZmDEc6BXLUY=",
   "Source": "ProyectoInventario",
   "BasePath": "_content/ProyectoInventario",
   "Mode": "Default",
@@ -1359,6 +1359,48 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\bodega.js",
+      "SourceId": "ProyectoInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\",
+      "BasePath": "_content/ProyectoInventario",
+      "RelativePath": "js/bodega#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f5jrgst56d",
+      "Integrity": "s6nNsGYWyCkcNledx1t4OqealBYqchJVL1HNnQEk2Zw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\loadDataTable.js",
+      "SourceId": "ProyectoInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\",
+      "BasePath": "_content/ProyectoInventario",
+      "RelativePath": "js/loadDataTable#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "5ipweew5fc",
+      "Integrity": "47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\loadDataTable.js"
     },
     {
       "Identity": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\site.js",
@@ -4961,6 +5003,170 @@
         {
           "Name": "integrity",
           "Value": "sha256-16aFlqtpsG9RyieKZUUUjkJpqTgcJtWXwT312I4Iz1s="
+        }
+      ]
+    },
+    {
+      "Route": "js/bodega.f5jrgst56d.js",
+      "AssetFile": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\bodega.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6nNsGYWyCkcNledx1t4OqealBYqchJVL1HNnQEk2Zw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 03:08:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f5jrgst56d"
+        },
+        {
+          "Name": "label",
+          "Value": "js/bodega.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6nNsGYWyCkcNledx1t4OqealBYqchJVL1HNnQEk2Zw="
+        }
+      ]
+    },
+    {
+      "Route": "js/bodega.js",
+      "AssetFile": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\bodega.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2776"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s6nNsGYWyCkcNledx1t4OqealBYqchJVL1HNnQEk2Zw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sat, 18 Jan 2025 03:08:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s6nNsGYWyCkcNledx1t4OqealBYqchJVL1HNnQEk2Zw="
+        }
+      ]
+    },
+    {
+      "Route": "js/loadDataTable.5ipweew5fc.js",
+      "AssetFile": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\loadDataTable.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 21:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "5ipweew5fc"
+        },
+        {
+          "Name": "label",
+          "Value": "js/loadDataTable.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "js/loadDataTable.js",
+      "AssetFile": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\loadDataTable.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "0"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 09 Jan 2025 21:54:12 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
         }
       ]
     },
