@@ -1,4 +1,5 @@
 E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\bin\Debug\net8.0\ProyectoInventario.AccesoDatos.deps.json
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\bin\Debug\net8.0\ProyectoInventario.AccesoDatos.runtimeconfig.json
 E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\bin\Debug\net8.0\ProyectoInventario.AccesoDatos.dll
 E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\bin\Debug\net8.0\ProyectoInventario.AccesoDatos.pdb
 E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\bin\Debug\net8.0\ProyectoInventario.Modelos.dll
@@ -15,4 +16,5 @@ E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\obj\Debug\ne
 E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\obj\Debug\net8.0\ProyectoInventario.AccesoDatos.dll
 E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\obj\Debug\net8.0\refint\ProyectoInventario.AccesoDatos.dll
 E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\obj\Debug\net8.0\ProyectoInventario.AccesoDatos.pdb
+E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\obj\Debug\net8.0\ProyectoInventario.AccesoDatos.genruntimeconfig.cache
 E:\Estudios\.Net7\ProyectoInventario\ProyectoInventario.AccesoDatos\obj\Debug\net8.0\ref\ProyectoInventario.AccesoDatos.dll

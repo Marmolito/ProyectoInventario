@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "QezLjE8CvGMu1bzBvwp9rqbRxM95kH0MZmDEc6BXLUY=",
+  "Hash": "xRDpBhMI+BcX9j34VRK7lG54yU4C4nHsDNbWxXnXmwM=",
   "Source": "ProyectoInventario",
   "BasePath": "_content/ProyectoInventario",
   "Mode": "Default",
@@ -1380,6 +1380,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\bodega.js"
+    },
+    {
+      "Identity": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\categoria.js",
+      "SourceId": "ProyectoInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\",
+      "BasePath": "_content/ProyectoInventario",
+      "RelativePath": "js/categoria#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "nccjkhgjbp",
+      "Integrity": "R/3xLwxkpgom4C5qkADIkvh22fMRHM8LwAgP4TneQnU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\categoria.js"
     },
     {
       "Identity": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\loadDataTable.js",
@@ -5085,6 +5106,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-s6nNsGYWyCkcNledx1t4OqealBYqchJVL1HNnQEk2Zw="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.js",
+      "AssetFile": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R/3xLwxkpgom4C5qkADIkvh22fMRHM8LwAgP4TneQnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 17:36:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R/3xLwxkpgom4C5qkADIkvh22fMRHM8LwAgP4TneQnU="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.nccjkhgjbp.js",
+      "AssetFile": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R/3xLwxkpgom4C5qkADIkvh22fMRHM8LwAgP4TneQnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 17:36:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nccjkhgjbp"
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R/3xLwxkpgom4C5qkADIkvh22fMRHM8LwAgP4TneQnU="
         }
       ]
     },
@@ -9949,7 +10052,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 00:01:16 GMT"
+          "Value": "Mon, 20 Jan 2025 18:27:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9994,7 +10097,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 00:01:16 GMT"
+          "Value": "Mon, 20 Jan 2025 18:27:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10039,7 +10142,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 00:01:16 GMT"
+          "Value": "Mon, 20 Jan 2025 18:27:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10076,7 +10179,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 00:01:16 GMT"
+          "Value": "Mon, 20 Jan 2025 18:27:48 GMT"
         },
         {
           "Name": "Cache-Control",

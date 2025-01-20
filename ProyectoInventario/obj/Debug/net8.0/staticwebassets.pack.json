@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
     {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\categoria.js",
+      "PackagePath": "staticwebassets\\js\\categoria.js"
+    },
+    {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\loadDataTable.js",
       "PackagePath": "staticwebassets\\js\\loadDataTable.js"
     },

@@ -6,7 +6,7 @@ using Microsoft.EntityFrameworkCore.Migrations;
 namespace ProyectoInventario.AccesoDatos.Migrations
 {
     /// <inheritdoc />
-    public partial class AgregarMigracionInicial : Migration
+    public partial class InicialMigration : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
@@ -48,6 +48,51 @@ namespace ProyectoInventario.AccesoDatos.Migrations
                 constraints: table =>
                 {
                     table.PrimaryKey("PK_AspNetUsers", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Bodegas",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Nombre = table.Column<string>(type: "nvarchar(60)", maxLength: 60, nullable: false),
+                    Descripcion = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    Estado = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Bodegas", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Categorias",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Nombre = table.Column<string>(type: "nvarchar(60)", maxLength: 60, nullable: false),
+                    Descripcion = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    Estado = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Categorias", x => x.Id);
+                });
+
+            migrationBuilder.CreateTable(
+                name: "Marcas",
+                columns: table => new
+                {
+                    Id = table.Column<int>(type: "int", nullable: false)
+                        .Annotation("SqlServer:Identity", "1, 1"),
+                    Nombre = table.Column<string>(type: "nvarchar(60)", maxLength: 60, nullable: false),
+                    Descripcion = table.Column<string>(type: "nvarchar(100)", maxLength: 100, nullable: false),
+                    Estado = table.Column<bool>(type: "bit", nullable: false)
+                },
+                constraints: table =>
+                {
+                    table.PrimaryKey("PK_Marcas", x => x.Id);
                 });
 
             migrationBuilder.CreateTable(
@@ -213,6 +258,15 @@ namespace ProyectoInventario.AccesoDatos.Migrations
 
             migrationBuilder.DropTable(
                 name: "AspNetUserTokens");
+
+            migrationBuilder.DropTable(
+                name: "Bodegas");
+
+            migrationBuilder.DropTable(
+                name: "Categorias");
+
+            migrationBuilder.DropTable(
+                name: "Marcas");
 
             migrationBuilder.DropTable(
                 name: "AspNetRoles");

@@ -2249,7 +2249,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 00:01:16 GMT"
+          "Value": "Mon, 20 Jan 2025 18:27:48 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2294,7 +2294,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 03 Jan 2025 00:01:16 GMT"
+          "Value": "Mon, 20 Jan 2025 18:27:48 GMT"
         }
       ],
       "EndpointProperties": [
@@ -2547,6 +2547,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-s6nNsGYWyCkcNledx1t4OqealBYqchJVL1HNnQEk2Zw="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.js",
+      "AssetFile": "js/categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R/3xLwxkpgom4C5qkADIkvh22fMRHM8LwAgP4TneQnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 17:36:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-R/3xLwxkpgom4C5qkADIkvh22fMRHM8LwAgP4TneQnU="
+        }
+      ]
+    },
+    {
+      "Route": "js/categoria.nccjkhgjbp.js",
+      "AssetFile": "js/categoria.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2788"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"R/3xLwxkpgom4C5qkADIkvh22fMRHM8LwAgP4TneQnU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 20 Jan 2025 17:36:06 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "nccjkhgjbp"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-R/3xLwxkpgom4C5qkADIkvh22fMRHM8LwAgP4TneQnU="
+        },
+        {
+          "Name": "label",
+          "Value": "js/categoria.js"
         }
       ]
     },

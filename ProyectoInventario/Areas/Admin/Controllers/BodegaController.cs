@@ -63,7 +63,7 @@ namespace ProyectoInventario.Areas.Admin.Controllers
                 await _unidadTrabajo.Guardar();
                 return RedirectToAction(nameof(Index));
             }
-            TempData[DS.Error] = "Error al gravar Bodega";
+            TempData[DS.Error] = "Error al grabar Bodega";
             return View(bodega);
         }
 
