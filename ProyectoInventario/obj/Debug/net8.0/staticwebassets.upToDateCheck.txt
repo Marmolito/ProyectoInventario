@@ -3,6 +3,7 @@ wwwroot\favicon.ico
 wwwroot\js\bodega.js
 wwwroot\js\categoria.js
 wwwroot\js\loadDataTable.js
+wwwroot\js\marca.js
 wwwroot\js\site.js
 wwwroot\lib\bootstrap\dist\css\bootstrap.css
 wwwroot\lib\bootstrap\dist\css\bootstrap.css.map

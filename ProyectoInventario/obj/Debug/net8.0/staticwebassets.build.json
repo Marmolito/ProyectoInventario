@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "xRDpBhMI+BcX9j34VRK7lG54yU4C4nHsDNbWxXnXmwM=",
+  "Hash": "KZiBs5jVVSc7gYqaa5lWntVxZ4G1zHzTbY17ZHibZtY=",
   "Source": "ProyectoInventario",
   "BasePath": "_content/ProyectoInventario",
   "Mode": "Default",
@@ -1422,6 +1422,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\loadDataTable.js"
+    },
+    {
+      "Identity": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\marca.js",
+      "SourceId": "ProyectoInventario",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\",
+      "BasePath": "_content/ProyectoInventario",
+      "RelativePath": "js/marca#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7p1n9rsy9u",
+      "Integrity": "W50xTdcqQ6F11Wuo7/U8qhubtGTqxIQ5tBmVt0oEdAo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\marca.js"
     },
     {
       "Identity": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\site.js",
@@ -5270,6 +5291,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU="
+        }
+      ]
+    },
+    {
+      "Route": "js/marca.7p1n9rsy9u.js",
+      "AssetFile": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\marca.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W50xTdcqQ6F11Wuo7/U8qhubtGTqxIQ5tBmVt0oEdAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:51:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7p1n9rsy9u"
+        },
+        {
+          "Name": "label",
+          "Value": "js/marca.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-W50xTdcqQ6F11Wuo7/U8qhubtGTqxIQ5tBmVt0oEdAo="
+        }
+      ]
+    },
+    {
+      "Route": "js/marca.js",
+      "AssetFile": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\marca.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2772"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"W50xTdcqQ6F11Wuo7/U8qhubtGTqxIQ5tBmVt0oEdAo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 23 Jan 2025 20:51:55 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-W50xTdcqQ6F11Wuo7/U8qhubtGTqxIQ5tBmVt0oEdAo="
         }
       ]
     },
