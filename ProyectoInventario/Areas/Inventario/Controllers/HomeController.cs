@@ -1,5 +1,8 @@
+using System.Collections.Generic;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
+using ProyectoInventario.AccesoDatos.Repositorio.IRepositorio;
+using ProyectoInventario.Modelos;
 using ProyectoInventario.Modelos.ViewModels;
 
 namespace ProyectoInventario.Areas.Inventario.Controllers
@@ -8,15 +11,19 @@ namespace ProyectoInventario.Areas.Inventario.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
+        private readonly IUnidadTrabajo _unidadTrabajo;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(ILogger<HomeController> logger, IUnidadTrabajo unidadTrabajo)
         {
             _logger = logger;
+            _unidadTrabajo = unidadTrabajo;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            return View();
+            IEnumerable<Producto> prodcutoLista = await _unidadTrabajo.Producto.ObtenerTodos();
+
+            return View(prodcutoLista);
         }
 
         public IActionResult Privacy()

@@ -13,12 +13,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\icono.ico",
+      "PackagePath": "staticwebassets\\imagenes\\icono.ico"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\icono.png",
+      "PackagePath": "staticwebassets\\imagenes\\icono.png"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\0bc4c1d6-051e-4659-8d1d-1e58d7b4a840.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\0bc4c1d6-051e-4659-8d1d-1e58d7b4a840.jpg"
+    },
+    {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\346c3b40-4df1-46b8-8853-1f998315f0b9.jpg",
       "PackagePath": "staticwebassets\\imagenes\\producto\\346c3b40-4df1-46b8-8853-1f998315f0b9.jpg"
     },
     {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\4ac7bd8b-13db-40f7-93b5-a210318ac872.jpg",
       "PackagePath": "staticwebassets\\imagenes\\producto\\4ac7bd8b-13db-40f7-93b5-a210318ac872.jpg"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\76d2aa8e-0f9b-4696-993f-75a7f7cc9659.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\76d2aa8e-0f9b-4696-993f-75a7f7cc9659.PNG"
     },
     {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\9ced03b0-ca4c-4ba8-be9e-dd91e74de1c6.jpg",
@@ -31,6 +47,10 @@
     {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\ca0d69ca-3aa8-49ed-8f48-251fcf2866be.jpg",
       "PackagePath": "staticwebassets\\imagenes\\producto\\ca0d69ca-3aa8-49ed-8f48-251fcf2866be.jpg"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\ef893c99-160d-4c1d-8bc2-825aa1e41438.PNG",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\ef893c99-160d-4c1d-8bc2-825aa1e41438.PNG"
     },
     {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\bodega.js",
