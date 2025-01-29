@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <Nullable>enable</Nullable>
+    <!--<Nullable>enable</Nullable>-->
     <ImplicitUsings>enable</ImplicitUsings>
     <UserSecretsId>aspnet-ProyectoInventario-2754eaa4-c96a-4199-8f08-23b265e0a6b6</UserSecretsId>
   </PropertyGroup>
@@ -21,6 +21,10 @@
     <ProjectReference Include="..\ProyectoInventario.AccesoDatos\ProyectoInventario.AccesoDatos.csproj" />
     <ProjectReference Include="..\ProyectoInventario.Modelos\ProyectoInventario.Modelos.csproj" />
     <ProjectReference Include="..\ProyectoInventario.Utilidades\ProyectoInventario.Utilidades.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\imagenes\producto\" />
   </ItemGroup>
 
 </Project>

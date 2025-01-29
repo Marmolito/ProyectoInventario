@@ -13,6 +13,26 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\346c3b40-4df1-46b8-8853-1f998315f0b9.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\346c3b40-4df1-46b8-8853-1f998315f0b9.jpg"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\4ac7bd8b-13db-40f7-93b5-a210318ac872.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\4ac7bd8b-13db-40f7-93b5-a210318ac872.jpg"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\9ced03b0-ca4c-4ba8-be9e-dd91e74de1c6.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\9ced03b0-ca4c-4ba8-be9e-dd91e74de1c6.jpg"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\a578b2e1-7d33-4246-bb5d-2c9e833482e5.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\a578b2e1-7d33-4246-bb5d-2c9e833482e5.jpg"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\imagenes\\producto\\ca0d69ca-3aa8-49ed-8f48-251fcf2866be.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\producto\\ca0d69ca-3aa8-49ed-8f48-251fcf2866be.jpg"
+    },
+    {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\bodega.js",
       "PackagePath": "staticwebassets\\js\\bodega.js"
     },
@@ -27,6 +47,10 @@
     {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\marca.js",
       "PackagePath": "staticwebassets\\js\\marca.js"
+    },
+    {
+      "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\producto.js",
+      "PackagePath": "staticwebassets\\js\\producto.js"
     },
     {
       "Id": "E:\\Estudios\\.Net7\\ProyectoInventario\\ProyectoInventario\\wwwroot\\js\\site.js",
